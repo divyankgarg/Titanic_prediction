@@ -1,0 +1,2 @@
+Users/digarg/Desktop/full_time_work/online_study/titanic/*.ipynb filter=lfs diff=lfs merge=lfs -text
+Users/digarg/Desktop/full_time_work/online_study/titanic/*.csv filter=lfs diff=lfs merge=lfs -text
