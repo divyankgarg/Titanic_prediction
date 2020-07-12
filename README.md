@@ -50,3 +50,15 @@ parch: The dataset defines family relations in this way...
 Parent = mother, father
 Child = daughter, son, stepdaughter, stepson
 Some children travelled only with a nanny, therefore parch=0 for them.
+
+#Files_information
+train.csv= the original csv file present to train model
+test.csv= the original csv file present to test model
+gender_submission.csv= the original file to save the predicted value
+gold_medal_result.ipynb= the python file with highest accuracy result (highest accuracy result)
+gold_medal_result.csv= the csv predicted result of gold_medal_result.ipynb file 
+final_model_hyperparameter_Rf.ipynb= the python file with RF model and hyper paramaterization (second highest accuracy result)
+final_model_hyperparameter_Rf.csv= the csv predicted result of final_model_hyperparameter_Rf.ipynb file
+df_submission_xgboost_more_features_test.ipynb= the python file with xgboost model (third highest accuracy result)
+df_submission_xgboost_more_features_test.csv= the csv predicted result of df_submission_xgboost_more_features_test.ipynb file
+
