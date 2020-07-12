@@ -51,7 +51,7 @@ Parent = mother, father
 Child = daughter, son, stepdaughter, stepson
 Some children travelled only with a nanny, therefore parch=0 for them.
 
-#Files_information
+# Files_information
 train.csv= the original csv file present to train model
 test.csv= the original csv file present to test model
 gender_submission.csv= the original file to save the predicted value
